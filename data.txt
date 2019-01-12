@@ -7,4 +7,3 @@ Smith,        Patti,239-1212
 Thompson,        Bobby,365-2622
 Ziegler,        Zig,667-1101
 hello,   there,12345
-henry,        post,1234
